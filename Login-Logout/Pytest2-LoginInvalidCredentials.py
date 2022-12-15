@@ -32,6 +32,7 @@ try:
 
     #Seteamos la URL a la que se correra la prueba
     driver.get(os.environ["HOST"])
+    driver.maximize_window()
 
 
 

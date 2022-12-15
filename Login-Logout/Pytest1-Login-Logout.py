@@ -32,7 +32,7 @@ try:
 
     #Seteamos la URL a la que se correra la prueba
     driver.get(os.environ["HOST"])
-
+    driver.maximize_window()
 
 
     #Los time.sleep() agregados es para que vayan viendo el fluejo de ingreso de usuario 
