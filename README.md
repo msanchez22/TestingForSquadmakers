@@ -144,3 +144,10 @@ python ../TestSquadMakers\Shopping\Pytest1-BuyVariousArticules.py
 Pueden correr toda la pila de prueba ejecutando el archivo "Testing_Runner.py"
 
 python ../TestSquadMakers\Testing_Runner.py
+
+
+
+## Important
+
+-el archivo.env es donde se setean los diferentes ambientes o url de prueba
+-el archivo requirements.txt es donde se encuentra todo lo necesario a nivel de pluggins e instalaciones para ejecutar el proyecto
